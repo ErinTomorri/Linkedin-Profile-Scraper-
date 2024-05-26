@@ -15,12 +15,6 @@ This project is a LinkedIn Profile Scraper designed to extract publicly availabl
 
 To use this scraper, clone the repository and install the required dependencies:
 
-```bash
-git clone https://github.com/yourusername/linkedin-profile-scraper.git
-cd linkedin-profile-scraper
-pip install -r requirements.txt
-```
-
 ## Usage
 
 1. **Set Up Proxies**: Prepare a list of proxy servers. You can use free proxies or a paid proxy service for better reliability.
